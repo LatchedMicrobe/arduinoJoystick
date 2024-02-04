@@ -12,7 +12,7 @@ Leds amarelo, azul, vermelho e verde / Yellow, Blue, Red and Green leds
 Para cada direção em um plano x,y paralelo ao plano base do joystick, mudar a intensidade do led designado para está direção e sentido / For each direction in the cartesian two-dimensional plane parallel to the base of the joystick, change the led intensity on the led corresponding to that direction :heavy_check_mark:
 
 ## Orientação do plano usado / Cartesian plane orientation used
-[![]https://github.com/LatchedMicrobe/arduinoJoystick/blob/master/2020-04-30_coordinate_plane6586676290453713581.jpg]
+[![](https://github.com/LatchedMicrobe/arduinoJoystick/blob/master/2020-04-30_coordinate_plane6586676290453713581.jpg)]
 
 ## Visualização via Youtube / Youtube visualization
 ### Segue a visualização da minha versão / My version visualization
